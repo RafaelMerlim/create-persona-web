@@ -1,0 +1,24 @@
+.myContayner{
+    display: flex;
+    flex-direction: line;
+    align-items: center;
+}
+.myForm{
+    margin: 20%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.myControl{
+    width: 80%;
+}
+.spaceContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 20%;
+}
